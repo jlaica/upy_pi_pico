@@ -1,3 +1,15 @@
+#Script para Micropython
+#Bucle infinito V1
+#Valido para:
+# - ESP8266
+# - ESP32
+# - ESP01
+# - Raspberry Pi Pico
+
+#Por José Luis Laica Cornejo
+#Gye - Ecu
+#2021
+
 import machine
 import utime
 
