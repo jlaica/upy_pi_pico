@@ -1,3 +1,13 @@
+#Script para Micropython
+
+#Válido para:
+# - Raspberry Pi Pico
+
+#Por José Luis Laica Cornejo
+#Gye - Ecu
+#2021
+
+
 import machine
 import utime
 
