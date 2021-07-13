@@ -1,3 +1,12 @@
+#Script para Micropython
+#Bucle infinito V1
+#Valido para:
+# * Raspberry Pi Pico
+
+#Por José Luis Laica Cornejo
+#Gye - Ecu
+#2021
+
 from machine import Pin
 import utime
 
