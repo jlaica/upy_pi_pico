@@ -12,7 +12,7 @@
 from machine import Pin #Configuración de pines como entrada
 boton = Pin(2, Pin.IN)     
 
-print("Esperando por botón")
+print("Esperando por boton")
 while ( boton.value()== 0 ):
     pass
 
